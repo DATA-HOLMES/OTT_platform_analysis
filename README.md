@@ -33,23 +33,14 @@ Synthetic and realistic datasets were generated to reflect actual OTT usage patt
 
 ## 📌 Key Features
 
-- 📈 Revenue trend analysis (monthly, average, per plan)
-- 👥 Active user tracking (by country, user type)
-- 🎬 Top content by language, genre, and engagement
-- 🧠 Viewer drop-off by episode for series
-- 🔄 Churn detection and subscription activity
-- 📊 Genre combination preferences
-- 🧒 Age-group vs content-type heatmap
-- 📌 Dynamic filtering and drill-throughs in Power BI
+-  Revenue trend analysis (monthly, average, per plan)
+-  Active user tracking (by country, user type)
+-  Top content by language, genre, and engagement
+-  Viewer drop-off by episode for series
+-  Churn detection and subscription activity
+-  Genre combination preferences
+-  Age-group vs content-type heatmap
+-  Dynamic filtering and drill-throughs in Power BI
 
 ---
-
-## 📎 ER Diagram
-
-> [Link to ER Diagram Image or PDF]  
-> *(Includes relationships among Users, Content, Subscription, WatchHistory, etc.)*
-
----
-
-## 📂 Project Structure
 
